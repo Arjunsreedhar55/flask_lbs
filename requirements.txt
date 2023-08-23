@@ -1,0 +1,3 @@
+Flask
+Gunicon
+scikit-learn
